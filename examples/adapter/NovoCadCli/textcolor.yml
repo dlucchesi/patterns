@@ -1,0 +1,12 @@
+normal:
+  textcolor: 000000
+  bgcolor: E6E6E6
+ok:
+  textcolor: 8ED973
+  bgcolor: E6E6E6
+warning:
+  textcolor: FFC000
+  bgcolor: FFEB9C
+error:
+  textcolor: 9C0006
+  bgcolor: FFC7CE
